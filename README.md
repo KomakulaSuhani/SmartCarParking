@@ -14,4 +14,3 @@ To implement the IoT-based car parking management system described in the code, 
 7. Red LED - 1
 
 
-https://www.tinkercad.com/things/6v7cpsFZnSK?sharecode=ROIRmHxvIQ_byLZEpvZtp3EBJaTqe3gKB564syGaV-w
